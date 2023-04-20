@@ -21,6 +21,8 @@ public class RandomNumber {
 		System.out.println("total"+"="+ total);
 		System.out.println("Hello anand");
 		System.out.println("Bye anand");
+		System.out.println("Hello Ranjith");
+		
 
 	}
 
